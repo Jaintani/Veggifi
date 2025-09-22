@@ -1,2 +1,2 @@
-# Veggifi
-An AI based nutrition platform 
+# Veggify
+An AI based nutrition companion
